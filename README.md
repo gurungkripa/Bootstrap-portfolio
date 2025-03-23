@@ -1,3 +1,3 @@
 # live demo
 
-https://gurungkumari.github.io/Bootstrap-portfolio/
+https://gurungkripa.github.io/Bootstrap-portfolio/
